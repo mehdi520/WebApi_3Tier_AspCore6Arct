@@ -1,0 +1,12 @@
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Common\bin\Debug\net6.0\AlphaApp.Common.deps.json
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Common\bin\Debug\net6.0\AlphaApp.Common.dll
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Common\bin\Debug\net6.0\AlphaApp.Common.pdb
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Common\obj\Debug\net6.0\AlphaApp.Common.csproj.AssemblyReference.cache
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Common\obj\Debug\net6.0\AlphaApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Common\obj\Debug\net6.0\AlphaApp.Common.AssemblyInfoInputs.cache
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Common\obj\Debug\net6.0\AlphaApp.Common.AssemblyInfo.cs
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Common\obj\Debug\net6.0\AlphaApp.Common.csproj.CoreCompileInputs.cache
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Common\obj\Debug\net6.0\AlphaApp.Common.dll
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Common\obj\Debug\net6.0\refint\AlphaApp.Common.dll
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Common\obj\Debug\net6.0\AlphaApp.Common.pdb
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Common\obj\Debug\net6.0\ref\AlphaApp.Common.dll

@@ -1,0 +1,17 @@
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Repositories\bin\Debug\net6.0\AlphaApp.Repositories.deps.json
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Repositories\bin\Debug\net6.0\AlphaApp.Repositories.dll
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Repositories\bin\Debug\net6.0\AlphaApp.Repositories.pdb
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Repositories\bin\Debug\net6.0\AlphaApp.Common.dll
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Repositories\bin\Debug\net6.0\AlphaApp.Common.pdb
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Repositories\obj\Debug\net6.0\AlphaApp.Repositories.csproj.AssemblyReference.cache
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Repositories\obj\Debug\net6.0\AlphaApp.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Repositories\obj\Debug\net6.0\AlphaApp.Repositories.AssemblyInfoInputs.cache
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Repositories\obj\Debug\net6.0\AlphaApp.Repositories.AssemblyInfo.cs
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Repositories\obj\Debug\net6.0\AlphaApp.Repositories.csproj.CoreCompileInputs.cache
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Repositories\obj\Debug\net6.0\AlphaApp.Repositories.csproj.CopyComplete
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Repositories\obj\Debug\net6.0\AlphaApp.Repositories.dll
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Repositories\obj\Debug\net6.0\refint\AlphaApp.Repositories.dll
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Repositories\obj\Debug\net6.0\AlphaApp.Repositories.pdb
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Repositories\obj\Debug\net6.0\ref\AlphaApp.Repositories.dll
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Repositories\bin\Debug\net6.0\AlphaApp.Repositories.runtimeconfig.json
+D:\2023\Alpha\ServerSide\AlphaWebApi\AlphaApp.Repositories\obj\Debug\net6.0\AlphaApp.Repositories.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+
+
+/binbacup
+/Buisness.Core/bin
+/Buisness.Core/obj
+/DataEntites/bin
+/DataEntites/obj
+/packages
+/TripJero.Log/bin/Release
+/TripJero.Log/obj/Release
+/TripJero.Notification/bin
+/TripJero.Notification/obj
+/Utilties/bin
+/Resolver/bin
+/Resolver/obj
+/TripJeroApi/bin
+/TripJeroApi/obj
+/Utilties/obj

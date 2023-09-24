@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=DESKTOP-45PMD0M\MSSQLSERVER19;Database=AlphaAppDB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entities -ContextDir DatabaseContexts -Context AlphaAppContext -f
